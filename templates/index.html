@@ -1,0 +1,15 @@
+{% extends 'base.html' %}
+
+{% block title %}
+Lista de Estudiantes
+{% endblock %}
+
+{% block content %}
+{% for estudiante in estudiantes %}
+    <div class="estudiante">
+        <p>{{ estudiante['codigo'] }} <i>({{ estudiante['nombre'] }})</i> <i>({{ estudiante['escala'] }})</i> <i>({{ estudiante['promedio'] }})</i></p>
+    </div>
+{% else %}
+    <h4 style="text-align: center">Estudiantes no encontrados</h4>
+{% endfor %}
+{% endblock %}
