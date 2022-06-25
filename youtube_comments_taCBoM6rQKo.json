@@ -1,0 +1,330 @@
+{
+    "kind": "youtube#commentThreadListResponse",
+    "etag": "Q6St1gmyuF1lBrX84QPHyEW5-No",
+    "pageInfo": {
+        "totalResults": 10,
+        "resultsPerPage": 100
+    },
+    "items": [
+        {
+            "kind": "youtube#commentThread",
+            "etag": "LEEmvd5UAdUBlm7sTQkKZXro3Ro",
+            "id": "UgwtUe7XCL4ct_SrkDx4AaABAg",
+            "snippet": {
+                "videoId": "taCBoM6rQKo",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "Pt1tljGeTOZ_V7vkzqqefjiUAjE",
+                    "id": "UgwtUe7XCL4ct_SrkDx4AaABAg",
+                    "snippet": {
+                        "videoId": "taCBoM6rQKo",
+                        "textDisplay": "Soy egresado de SENATI puedo convalidar con ustedes?",
+                        "textOriginal": "Soy egresado de SENATI puedo convalidar con ustedes?",
+                        "authorDisplayName": "J Riveros Y",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQj93wu34anhW3ayfyJMOxf5bsEXy0t9VstJQ=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCXYIBAzPOhJgciWAxBm8TPQ",
+                        "authorChannelId": {
+                            "value": "UCXYIBAzPOhJgciWAxBm8TPQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2022-02-23T07:20:23Z",
+                        "updatedAt": "2022-02-23T07:20:23Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 1,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "xhN5dgLgaAI5Y8zhfAOr6EHBS8Q",
+            "id": "UgxEWBIln330cnmatrh4AaABAg",
+            "snippet": {
+                "videoId": "taCBoM6rQKo",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "OkGqVc_rYpWU6R2BEFeiVvVLcAI",
+                    "id": "UgxEWBIln330cnmatrh4AaABAg",
+                    "snippet": {
+                        "videoId": "taCBoM6rQKo",
+                        "textDisplay": "cuanto esta el costo mensual por carrera en mecatronica",
+                        "textOriginal": "cuanto esta el costo mensual por carrera en mecatronica",
+                        "authorDisplayName": "Dora Pascuala Lira Apaza",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/Qivn97PD3qTyiOTQX2W6mnhp9bjLGi3KiIjylZVDZumvUrf9cG6sSJH5Q5hx2LTII-tVdDFg=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCPrVk_GThTz8XTGLtfj8bUw",
+                        "authorChannelId": {
+                            "value": "UCPrVk_GThTz8XTGLtfj8bUw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2022-02-04T23:09:27Z",
+                        "updatedAt": "2022-02-04T23:09:27Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 1,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "wHlkCegmImWA4UtvPey-DKVg5Os",
+            "id": "Ugy5VGfaKfuF21yc-hx4AaABAg",
+            "snippet": {
+                "videoId": "taCBoM6rQKo",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "oLtB7ibgu7dC4FG3CeIfKawLYCI",
+                    "id": "Ugy5VGfaKfuF21yc-hx4AaABAg",
+                    "snippet": {
+                        "videoId": "taCBoM6rQKo",
+                        "textDisplay": "Me gustar\u00eda saber las filiales de la universidad.",
+                        "textOriginal": "Me gustar\u00eda saber las filiales de la universidad.",
+                        "authorDisplayName": "King Master \u2122",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/zlEiqg5heOZy_hFB9tE2BjmD0n6Q72zDjaA4EfzfS361tt3gn1UHGABGRCEFGdZ7S5lA8VrNFg=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UC5QXd2uMH0XisTMpp4Kr8fQ",
+                        "authorChannelId": {
+                            "value": "UC5QXd2uMH0XisTMpp4Kr8fQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 4,
+                        "publishedAt": "2021-12-15T19:07:21Z",
+                        "updatedAt": "2021-12-15T19:07:30Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 1,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "4nU-lXfQRd639qhkDXu878fYUtc",
+            "id": "Ugxz8hL8BL5KehZFmtJ4AaABAg",
+            "snippet": {
+                "videoId": "taCBoM6rQKo",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "b6Ku0BU4khY-jdfBOvmlGL_20VQ",
+                    "id": "Ugxz8hL8BL5KehZFmtJ4AaABAg",
+                    "snippet": {
+                        "videoId": "taCBoM6rQKo",
+                        "textDisplay": "los estudiantes de carreras tecnicas pueden convalidad ?\u00bf",
+                        "textOriginal": "los estudiantes de carreras tecnicas pueden convalidad ?\u00bf",
+                        "authorDisplayName": "julio barrientos",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT2pW4KHQLtVblTCsCZoUQ2--43gNR3G8ZmH1jlBg=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCLRNJ7_MDc8uHHwN7mEJcoA",
+                        "authorChannelId": {
+                            "value": "UCLRNJ7_MDc8uHHwN7mEJcoA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2021-12-08T03:35:05Z",
+                        "updatedAt": "2021-12-08T03:35:05Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 1,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "3a37B9aISIbEmwzRg6UAWQlNtAQ",
+            "id": "Ugxs_YsbM4O3hw1WPhd4AaABAg",
+            "snippet": {
+                "videoId": "taCBoM6rQKo",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "SfRVVKKcWaSrzkHjX3bhCWdeJ-U",
+                    "id": "Ugxs_YsbM4O3hw1WPhd4AaABAg",
+                    "snippet": {
+                        "videoId": "taCBoM6rQKo",
+                        "textDisplay": "Disculpen, la Admisi\u00f3n por Primeros Puestos y la Admisi\u00f3n por Alto Rendimiento son las mismas?",
+                        "textOriginal": "Disculpen, la Admisi\u00f3n por Primeros Puestos y la Admisi\u00f3n por Alto Rendimiento son las mismas?",
+                        "authorDisplayName": "Gisele Ariana",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQppWAviTvQAu3zzV-YXFhcg63LwwpgRiyjVUTeSg=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCvk0SxvbHEdqBVJWHpbIFjg",
+                        "authorChannelId": {
+                            "value": "UCvk0SxvbHEdqBVJWHpbIFjg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 2,
+                        "publishedAt": "2021-11-03T23:35:19Z",
+                        "updatedAt": "2021-11-03T23:35:19Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 1,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "-91MbbD5c1vSy21AeKv4X0DfrRY",
+            "id": "UgxjljVRtPXCdQ5QRg14AaABAg",
+            "snippet": {
+                "videoId": "taCBoM6rQKo",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "V4jdIAHsxKLbves-FNB96JOkC78",
+                    "id": "UgxjljVRtPXCdQ5QRg14AaABAg",
+                    "snippet": {
+                        "videoId": "taCBoM6rQKo",
+                        "textDisplay": "cuando sera la admision 2022 para primeros puestos...",
+                        "textOriginal": "cuando sera la admision 2022 para primeros puestos...",
+                        "authorDisplayName": "nikol almanza",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSsPQdLPMbIYl0eG2Icz89HU41kDqGv_U2rhA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCFeFrwQ7EgxJUX0MCnFGY0w",
+                        "authorChannelId": {
+                            "value": "UCFeFrwQ7EgxJUX0MCnFGY0w"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 4,
+                        "publishedAt": "2021-10-11T17:54:41Z",
+                        "updatedAt": "2021-10-11T17:54:41Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 1,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "CF98mlyQbOOVHGZUjT4-dbV4D2s",
+            "id": "UgwJg3JxWzBoyGptbFd4AaABAg",
+            "snippet": {
+                "videoId": "taCBoM6rQKo",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "1h7db5xF522AR32BPKuS5SxEJHs",
+                    "id": "UgwJg3JxWzBoyGptbFd4AaABAg",
+                    "snippet": {
+                        "videoId": "taCBoM6rQKo",
+                        "textDisplay": "hola donde est\u00e1n las grabaciones de los cursos por favor",
+                        "textOriginal": "hola donde est\u00e1n las grabaciones de los cursos por favor",
+                        "authorDisplayName": "Edson Hidalgo",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSY6MLjCP8NTTPuS3pn1hZWtSvSSauuruaxCQ=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCdHTUidBMwN2uXiqxOZlJdA",
+                        "authorChannelId": {
+                            "value": "UCdHTUidBMwN2uXiqxOZlJdA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2021-07-19T18:01:04Z",
+                        "updatedAt": "2021-07-19T18:01:04Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "U3LK0UCulkpvfXd4oxQJsm019Hk",
+            "id": "UgxSawPEKI2WbYNWQSF4AaABAg",
+            "snippet": {
+                "videoId": "taCBoM6rQKo",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "Vm9O7ZNkCID2Txv9whH_7vrLC0w",
+                    "id": "UgxSawPEKI2WbYNWQSF4AaABAg",
+                    "snippet": {
+                        "videoId": "taCBoM6rQKo",
+                        "textDisplay": "El EDU CAM me dirigi\u00f3 a este link???",
+                        "textOriginal": "El EDU CAM me dirigi\u00f3 a este link???",
+                        "authorDisplayName": "Miguel Calle",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT5BWB0hchkjoSWO9CFG-xIj4anHzqN0kh2AWRh=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCtfP_w820dvzIL4E7g5gc6w",
+                        "authorChannelId": {
+                            "value": "UCtfP_w820dvzIL4E7g5gc6w"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2021-07-19T15:25:29Z",
+                        "updatedAt": "2021-07-19T15:25:29Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "c5qIufJILwnV0V2geNFIXW57v8c",
+            "id": "UgyWHsuKLvNQw17md6B4AaABAg",
+            "snippet": {
+                "videoId": "taCBoM6rQKo",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "BWN_bTHWuh-w25ADA6diXn3HBgc",
+                    "id": "UgyWHsuKLvNQw17md6B4AaABAg",
+                    "snippet": {
+                        "videoId": "taCBoM6rQKo",
+                        "textDisplay": "Ojala ingrese\ud83e\udd7a\ud83e\udd7a\ud83e\udd7a\ud83e\udd7a",
+                        "textOriginal": "Ojala ingrese\ud83e\udd7a\ud83e\udd7a\ud83e\udd7a\ud83e\udd7a",
+                        "authorDisplayName": "Jeon Kim",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT9giA_jfowgBxIn1DrPeb6QX_vA4Pmh8KJ_AsM1Vw=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCgPaE4gINRGK5wOQrpOmH7Q",
+                        "authorChannelId": {
+                            "value": "UCgPaE4gINRGK5wOQrpOmH7Q"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 12,
+                        "publishedAt": "2021-03-25T00:27:15Z",
+                        "updatedAt": "2021-03-25T00:27:15Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 34,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "kSasQooep5BTH_yFN4QxT5nbzjQ",
+            "id": "UgyOMh37w-DuyKhFJAl4AaABAg",
+            "snippet": {
+                "videoId": "taCBoM6rQKo",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "AYkO58mZ0cVzUhbe9oNVE4Wpeio",
+                    "id": "UgyOMh37w-DuyKhFJAl4AaABAg",
+                    "snippet": {
+                        "videoId": "taCBoM6rQKo",
+                        "textDisplay": "Aplica en Colombia,costo semestre, gracias!!",
+                        "textOriginal": "Aplica en Colombia,costo semestre, gracias!!",
+                        "authorDisplayName": "jairo suarez garcia",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRzBvIBBhuGaoZvB4dZxy6Hc1ZGb0E803ybNA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCcb-sJRzDFyycrlhtmux5tA",
+                        "authorChannelId": {
+                            "value": "UCcb-sJRzDFyycrlhtmux5tA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 3,
+                        "publishedAt": "2021-03-24T19:20:53Z",
+                        "updatedAt": "2021-03-24T19:20:53Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 1,
+                "isPublic": true
+            }
+        }
+    ]
+}
